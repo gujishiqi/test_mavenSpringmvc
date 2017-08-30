@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firstWebPro/firstWebPro.iml" filepath="$PROJECT_DIR$/firstWebPro/firstWebPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ideaPros/test_MavenWeb/test_MavenWeb.iml" filepath="$PROJECT_DIR$/../ideaPros/test_MavenWeb/test_MavenWeb.iml" />
+    </modules>
+  </component>
+</project>
